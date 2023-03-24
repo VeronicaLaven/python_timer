@@ -3,7 +3,7 @@
 <img
   src="pomodoro_timer_app_screenshot.png"
   alt="Pomodoro Technique timer app"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 Implement the Pomodoro Technique with this Python timer
 
