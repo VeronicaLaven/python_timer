@@ -1,9 +1,12 @@
 # Pomodoro Technique timer app
-
-<img
+<img 
   src="pomodoro_timer_app_screenshot.png"
-  alt="Pomodoro Technique timer app"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  alt="Screenshot of Pomodor Timer App GUI]" 
+  width="300" 
+  height="280">
+
+
+
 
 Implement the Pomodoro Technique with this Python timer
 
