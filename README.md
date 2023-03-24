@@ -3,7 +3,7 @@
   src="pomodoro_timer_app_screenshot.png"
   alt="Screenshot of Pomodor Timer App GUI]" 
   width="300" 
-  height="280">
+  height="240">
 
 
 
